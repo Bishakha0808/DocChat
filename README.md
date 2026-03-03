@@ -8,6 +8,8 @@
 
 DocChat is a fully **local**, privacy-first conversational chatbot that lets you upload a document and have a natural-language conversation about its contents. No API keys, no cloud — everything runs on your machine via [Ollama](https://ollama.com).
 
+![image](image.png)
+
 Key capabilities:
 - Upload **PDF, Word (DOCX), or Excel (XLSX)** files
 - Automatically chunks, embeds, and indexes the document
